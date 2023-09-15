@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, There this is Mahadi Hasan</h1>
+<h1 align="center">Hi 👋, This is Mahadi Hasan</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Redux, java**

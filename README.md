@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Mahadi Hasan</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Redux, java**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://mahadi-portfolio-rho.vercel.app/](https://mahadi-portfolio-rho.vercel.app/)
 
